@@ -1,0 +1,90 @@
+@keyframes flash {
+    0%,
+    100% {
+        opacity: 0;
+    }
+    50% {
+        opacity: 1;
+    }
+}
+
+.TypewriterCursor {
+    font-size: 32px;
+    opacity: 0;
+    animation: flash 1s linear infinite;
+}
+
+.TypewriterCursorSmall {
+    font-size: 5px;
+    opacity: 0;
+    animation: flash 1s linear infinite;
+}
+
+.typewriter-h1 {
+    display: inline;
+    font-family: 'Fira Code Light';
+  }
+  
+  .typewriter-bold {
+    font-family: 'Fira Code Bold';
+  }
+  
+  @media (max-width: 768px) {
+    .typewriter-h1 {
+      font-size: 16px;
+      font-weight: 700;
+    }
+
+    .typewriter-bold {
+        font-size: 16px;
+    }
+  }
+  
+  @media (min-width: 769px) {
+    .typewriter-h1 {
+      font-size: 32px;
+      font-weight: 700;
+    }
+
+    .typewriter-bold {
+        font-size: 32px;
+    }
+  }
+
+
+  /* OBJECT OBJECT OBJECT */
+
+  .custom-container {
+    border-radius: 25px;
+    margin: 10px;
+    padding: 5px;
+  }
+  
+  .custom-h1 {
+    font-family: 'Fira Code Light';
+  }
+  
+  .custom-key {
+    color: #05BFDB;
+    margin-left: 30px;
+  }
+  
+  .custom-value {
+    color: #A4BE7B;
+  }
+  
+  .custom-bracket {
+    color: #576CBC;
+  }
+  
+  @media (max-width: 768px) {
+    .custom-h1 {
+      font-size: 14px;
+    }
+  }
+  
+  @media (min-width: 769px) {
+    .custom-h1 {
+      font-size: 18px;
+    }
+  }

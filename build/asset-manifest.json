@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0a7e2afd.css",
+    "main.js": "/static/js/main.57caa6c3.js",
+    "static/media/grid.jpeg": "/static/media/grid.cac41891f2480dbae741.jpeg",
+    "static/media/avatar4.jpg": "/static/media/avatar4.5d6a04013c4c2268bcc6.jpg",
+    "static/media/FiraCode-Bold.ttf": "/static/media/FiraCode-Bold.59fae02781f2f626882c.ttf",
+    "static/media/FiraCode-Regular.ttf": "/static/media/FiraCode-Regular.8b606aa922421b9c669e.ttf",
+    "static/media/FiraCode-Light.ttf": "/static/media/FiraCode-Light.f2efbd74528cd96ffcb6.ttf",
+    "static/media/FiraCode-Bold.woff": "/static/media/FiraCode-Bold.b09eb4c939e990e8f9e8.woff",
+    "static/media/FiraCode-Regular.woff": "/static/media/FiraCode-Regular.19a2738eed5f65644ea5.woff",
+    "static/media/FiraCode-Light.woff": "/static/media/FiraCode-Light.e37fbea8ec98ce1ed3c5.woff",
+    "static/media/FiraCode-Bold.woff2": "/static/media/FiraCode-Bold.4be56996e127ca0cc550.woff2",
+    "static/media/FiraCode-Regular.woff2": "/static/media/FiraCode-Regular.fb1bb49c43d015b78056.woff2",
+    "static/media/FiraCode-Light.woff2": "/static/media/FiraCode-Light.52d95ea4712e5a0813df.woff2",
+    "static/media/PavleLogo3.png": "/static/media/PavleLogo3.0e49f18d6514e093d764.png",
+    "static/media/sittingDesk.png": "/static/media/sittingDesk.82c37678c40bb43da09a.png",
+    "static/media/notifications.png": "/static/media/notifications.0ca471d02d0de5ef7262.png",
+    "static/media/horizontalMonitor.png": "/static/media/horizontalMonitor.c79b614f869ee6f5b4b1.png",
+    "static/media/verticalMonitor.png": "/static/media/verticalMonitor.73d415857877ba670cf1.png",
+    "index.html": "/index.html",
+    "main.0a7e2afd.css.map": "/static/css/main.0a7e2afd.css.map",
+    "main.57caa6c3.js.map": "/static/js/main.57caa6c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a7e2afd.css",
+    "static/js/main.57caa6c3.js"
+  ]
+}

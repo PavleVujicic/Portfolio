@@ -1,0 +1,55 @@
+/* CustomComponent.css */
+
+
+.custom-container {
+    border-radius: 25px;
+    margin: 10px;
+    padding: 5px;
+  }
+  
+  .custom-h1 {
+    font-family: 'Fira Code Light';
+    font-weight: 700;
+  }
+  
+  .custom-key {
+    color: #34495E;
+    margin-left: 30px;
+  }
+  
+  .custom-value {
+    color: #0eac48;
+  }
+  
+  .custom-bracket {
+    color: #576CBC;
+  }
+  
+  @media (max-width: 768px) {
+    .custom-h1 {
+      font-size: 14px;
+    }
+
+    .arrow-icon {
+        height: 5px;
+        width: 5px;
+        margin-left: 10px;
+    }
+  }
+  
+  @media (min-width: 769px) {
+    .custom-h1 {
+      font-size: 18px;
+    }
+  }
+  
+.arrow-icon {
+    height: 10px;
+    width: 10px;
+    margin-left: 30px;
+}
+
+.custom-key-no-margin {
+    margin: 0;
+    color: #34495E;
+}
